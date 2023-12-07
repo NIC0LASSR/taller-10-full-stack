@@ -4,6 +4,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2>Punto 1: Constantes y variables</h2>
+<img src="./public/images/punto-1.PNG" alt = "Punto 1">
 
 <h2>Punto 2: Suma de Constantes y variables</h2>
 
