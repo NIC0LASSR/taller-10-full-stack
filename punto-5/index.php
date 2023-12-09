@@ -1,10 +1,12 @@
 <?php
 
-$tipoAfiliacion;
 const VALOR_ENTRADA = 25000;
+const DESCUENTO = 0.3;
+
+$tipoAfiliacion;
 $numPersona;
 $valorTotal;
-const DESCUENTO = 0.3;
+
 
 echo "Ingrese el tipo de afiliación: ";
 $tipoAfiliacion = readline();
